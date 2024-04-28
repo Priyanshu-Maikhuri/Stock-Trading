@@ -1,0 +1,8 @@
+.delete-btn{
+     visibility: hidden;
+     display: inline-block;
+}
+
+.table-row:hover .delete-btn{
+     visibility: visible;
+}
